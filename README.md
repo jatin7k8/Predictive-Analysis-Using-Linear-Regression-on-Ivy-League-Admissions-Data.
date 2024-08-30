@@ -66,5 +66,4 @@ Analyzed residual plots for normality and heteroscedasticity, informing model re
 ### 💡Result:
 Our regression analysis revealed that CGPA, GRE score, and TOEFL score are critical predictors of admission chances. Despite minor issues with residual normality and heteroscedasticity, both Linear Regression and regularized models demonstrated strong performance, capturing up to 82% of the variance in admission probabilities. Recommendations include enhancing feature diversity in applicant profiles beyond academic metrics and focusing on improving key predictors to optimize admission outcomes.
 
-By implementing these insights, Jamboree can enhance its predictive admissions capabilities, providing valuable guidance to applicants and improving success rates for Ivy League college admissions among Indian students.
-------
+
