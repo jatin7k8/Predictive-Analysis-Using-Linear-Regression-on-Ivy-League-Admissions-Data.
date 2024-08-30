@@ -1,6 +1,7 @@
 <h1 align='center'> <font color='Green'><font size=7> 🚸🎓Jamboree - Business CaseStudy🎓🚸 </font> </font></h1>
 <h1 align='center'><font color='gold'><font size=6>Linear Regression - Machine Learning </font> </font></h1>
 
+<kbd>![17239601442_550af662b1_c](https://github.com/KasiMuthuveerappan/Jamboree-Institute/assets/142071405/dcefb2c1-8c71-46d8-9377-403323850fb3)</kbd>
 
     
 ## 🔹ABOUT:
